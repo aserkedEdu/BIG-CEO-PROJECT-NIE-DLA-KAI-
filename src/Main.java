@@ -1,3 +1,5 @@
+// MUSIMY DODAC BRAKUJACE KLASY I USUNAC KAJE
+
 public class Main {
     static void main(String[] args) {
         Adder adder = new Adder();
