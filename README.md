@@ -7,3 +7,4 @@ vice ceo sie podpisal
 ceo tez
 
 Zgadzam sie
+yes
