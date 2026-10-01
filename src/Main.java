@@ -1,5 +1,7 @@
 // MUSIMY DODAC BRAKUJACE KLASY I USUNAC KAJE
 
+// ok ja dodam klasy a ty usuniesz kaje
+
 public class Main {
     static void main(String[] args) {
         Adder adder = new Adder();
